@@ -1,2 +1,3 @@
 # newwww1
-no idea
+This is for learning purpose.
+I will work hard.
